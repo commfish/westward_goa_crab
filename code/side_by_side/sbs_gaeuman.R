@@ -14,7 +14,7 @@ options(contrasts = rep("contr.sum", 2))
 # ---------------------------------------------
 # import and restructure data; apply log(x + 1) transform to all CPUEs; assumes tow pairs are 
 # in adjacent rows
-data0 <- read.csv("sbs2019.csv", as.is = TRUE) %>%
+data0 <- read.csv("./data/side_by_side/sbs2019.csv", as.is = TRUE) %>%
 	transmute(pair = as.character(rep(1:(dim(.)[1]/2), each = 2)),
 		vessel = ifelse(vessel_id == 30, "R", "S"),
 		juv.fem = juv_fem, adult.fem = adult_fem, tot.fem = tot_fem, 
