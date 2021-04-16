@@ -197,8 +197,8 @@ f_kapp <- function(data, ves1, ves2, vessel_name = "vessel", cpue_name = "cpue")
   cpue2 = data %>% pull(as.name(ves2)) 
   
   # call fishmethods::fpc
-  #kapp = try(fishmethods::fpc(cpue1, cpue2, method = 4, kapp_zeros = "ind", boot_type = "unpaired"), silent = T)
-  kapp = try(fishmethods::fpc(cpue1, cpue2, method = 4), silent = T)
+  kapp = try(fishmethods::fpc(cpue1, cpue2, method = 4, kapp_zeros = "ind", boot_type = "unpaired"), silent = T)
+  #kapp = try(fishmethods::fpc(cpue1, cpue2, method = 4), silent = T)
   
   # organize results
   if(class(kapp) == "try-error"){
@@ -520,4 +520,44 @@ pre %>%
     nest() %>%
     # plot data 
     mutate(plot = purrr::map2(data, spp, f_sim_plot, path_prefix = "./figures/side_by_side/rb_anova"))
+  
+  
+## post-modification simlulation
+post %>%
+  left_join(spec, by = c("tow", "vessel")) %>%
+  # use only resolution cpue
+  filter(vessel == "res") %>%
+  # replace NA in tows that did not catch any crab
+  replace(is.na(.), 0) %>%
+  # remove unneeded columns
+  ungroup() %>%
+  dplyr::select(-tow, -vessel, -pair) %>%
+  # pivot to long format
+  pivot_longer(c(1:ncol(.)), names_to = "spp", values_to = "cpue") %>%
+  # nest by species group
+  group_by(spp) %>%
+  nest() %>%
+  # get number of hauls
+  # run sim
+  mutate(n_tow = purrr::map_dbl(data, nrow),
+         sim = purrr::map2(data, n_tow, f_kapp_mse_sim, method = 4)) -> mse_sim_kapp
+  saveRDS(mse_sim_kapp, "./output/side_by_side/sim_results_post.RDS")
+  
+  
+  ## plots
+  readRDS("./output/side_by_side/sim_results_post.RDS") %>%
+    # join to kappenman estimate
+    left_join(read_csv("./output/side_by_side/post_kapp_fpc.csv"), by = "spp") %>%
+    # trim data
+    dplyr::select(spp, fpc, sim) %>%
+    # add fpc to the nested data
+    unnest(sim) %>%
+    nest() %>%
+    # plot data 
+    mutate(plot = purrr::map2(data, spp, f_sim_plot, path_prefix = "./figures/side_by_side/post_"))
+  
+  
+  
+  
+  
   
