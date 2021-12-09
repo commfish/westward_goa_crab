@@ -1,0 +1,377 @@
+station,tdist,tsect,tsub_sect,district,section,subsection,reference_station,reference_station2,reference_station3,area_km2,area_nmi2
+CHB,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,7.9,2.3
+CHA,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,5.5,1.6
+CHE,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,20.6,6
+313,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,85.8,25
+285,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,82.4,24.01
+255A,1,1,3,Kodiak,Northeast,Marmot Bay,255,NA,NA,64.4,18.78
+255B,1,1,3,Kodiak,Northeast,Marmot Bay,255,NA,NA,63.9,18.63
+256,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,82.1,23.95
+257,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,82.1,23.95
+284,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,82.4,24.01
+283B,1,1,3,Kodiak,Northeast,Marmot Bay,283,NA,NA,64,18.67
+283A,1,1,3,Kodiak,Northeast,Marmot Bay,283,NA,NA,67.9,19.8
+MOXA,1,1,3,Kodiak,Northeast,Marmot Bay,MOXX,NA,NA,13,3.8
+MOXB,1,1,3,Kodiak,Northeast,Marmot Bay,MOXX,NA,NA,29.5,8.6
+MOPA,1,1,3,Kodiak,Northeast,Marmot Bay,MOPX,NA,NA,27.8,8.1
+MOLA,1,1,3,Kodiak,Northeast,Marmot Bay,MOLX,NA,NA,28,8.17
+MOEX,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,36.2,10.56
+MOGX,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,65.9,19.2
+MOLB,1,1,3,Kodiak,Northeast,Marmot Bay,MOLX,NA,NA,44.8,13.05
+MOPB,1,1,3,Kodiak,Northeast,Marmot Bay,MOPX,NA,NA,19.9,5.8
+MONX,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,75.5,22
+KZS,1,1,3,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,3.1,0.9
+KZR,1,1,3,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,10.8,3.14
+KZO,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,21.4,6.25
+KZA,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,11.7,3.4
+KZB,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,2.7,0.8
+KZD,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,23.7,6.9
+KZF,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,20.1,5.86
+KZJ,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,21.4,6.25
+CHJ,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,11.3,3.3
+CHG,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,32.8,9.55
+369X,1,1,1,Kodiak,Northeast,Chiniak Gully,NA,NA,NA,142.8,41.64
+395,1,1,1,Kodiak,Northeast,Chiniak Gully,NA,NA,NA,85.8,25
+420,1,1,1,Kodiak,Northeast,Chiniak Gully,NA,NA,NA,83.3,24.28
+421,1,1,1,Kodiak,Northeast,Chiniak Gully,NA,NA,NA,83.3,24.28
+444,1,1,1,Kodiak,Northeast,Chiniak Gully,NA,NA,NA,83.5,24.34
+443,1,1,1,Kodiak,Northeast,Chiniak Gully,NA,NA,NA,83.5,24.34
+UGAC,1,2,1,Kodiak,Eastside,Ugak Bay,UGAB,NA,NA,3.2,0.93
+UGAD,1,2,1,Kodiak,Eastside,Ugak Bay,UGAB,NA,NA,4.4,1.29
+UGAA,1,2,1,Kodiak,Eastside,Ugak Bay,UGA,NA,NA,16,4.67
+UGB,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,5.8,1.7
+UGC,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,17.5,5.1
+UGD,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,11,3.2
+UGE,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,12.7,3.7
+UGF,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,15.8,4.6
+UGI,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,22.3,6.5
+UGG,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,11,3.2
+UGJ,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,21,6.11
+486B,1,2,3,Kodiak,Eastside,Barnabas Gully,486,NA,NA,29.4,8.56
+486A,1,2,3,Kodiak,Eastside,Barnabas Gully,486,NA,NA,25,7.29
+UGM,1,2,1,Kodiak,Eastside,Ugak Bay,NA,NA,NA,16.8,4.9
+510D,1,2,3,Kodiak,Eastside,Barnabas Gully,510B,NA,NA,38,11.09
+KLD,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,18.2,5.3
+510C,1,2,3,Kodiak,Eastside,Barnabas Gully,510B,NA,NA,21.5,6.27
+511A,1,2,3,Kodiak,Eastside,Barnabas Gully,511,NA,NA,42,12.25
+511B,1,2,3,Kodiak,Eastside,Barnabas Gully,511,NA,NA,42.9,12.5
+535B,1,2,3,Kodiak,Eastside,Barnabas Gully,535,NA,NA,21.4,6.25
+535D,1,2,3,Kodiak,Eastside,Barnabas Gully,535,NA,NA,21.4,6.25
+535A,1,2,3,Kodiak,Eastside,Barnabas Gully,535,NA,NA,21.1,6.14
+534BX,1,2,3,Kodiak,Eastside,Barnabas Gully,534,NA,NA,20.8,6.07
+KLL,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,21.4,6.25
+533B,1,2,3,Kodiak,Eastside,Barnabas Gully,533,NA,NA,42.9,12.5
+534DX,1,2,3,Kodiak,Eastside,Barnabas Gully,534,NA,NA,29,8.46
+535C,1,2,3,Kodiak,Eastside,Barnabas Gully,535,NA,NA,21.1,6.14
+561,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+589,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+588,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+560,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+KLA,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,20.9,6.1
+KLB,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,9.3,2.7
+KLC,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,19.6,5.7
+KLI,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,21.4,6.25
+KLH,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,16.8,4.9
+KLG,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,16.5,4.8
+KLF,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,15.1,4.4
+KLE,1,2,2,Kodiak,Eastside,Kiliuda Bay,NA,NA,NA,8.2,2.4
+THN,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,5.1,1.5
+THM,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,10.6,3.1
+THL,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,9.3,2.7
+THK,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,16.5,4.8
+THJ,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,17.8,5.2
+THI,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,21.6,6.3
+THFA,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,THF,NA,NA,22.3,6.5
+THG,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,21.1,6.16
+THH,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,19.2,5.6
+THDX,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,THD,THF,NA,28.6,8.33
+ALD,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,13,3.8
+ALBX,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,12.8,3.73
+646D,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,37.4,10.9
+646B,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,16.5,4.8
+646A,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,27.1,7.9
+645B,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,34.3,10
+646C,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,27.9,8.13
+682B,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,21.7,6.34
+683A,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,22.2,6.48
+683B,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,20.9,6.1
+ALF,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,21.4,6.25
+ALA,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,3.1,0.9
+684B,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,10.3,3
+684A,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,21.7,6.34
+683D,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,9.3,2.7
+684C,1,4,2,Kodiak,Southwest,Alitak Flats,NA,NA,NA,8.6,2.5
+ALCA,1,4,1,Kodiak,Southwest,Alitak Bay,ALC,NA,NA,8.1,2.37
+ALG,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,19.9,5.8
+ALR,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,13.4,3.9
+ALQ,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,14.4,4.2
+ALP,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,18.4,5.37
+ALO,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,16.8,4.9
+ALL,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,8.2,2.4
+ALM,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,16.1,4.7
+ALK,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,9.9,2.9
+ALJ,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,15.1,4.4
+ALH,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,16.1,4.7
+ALI,1,4,1,Kodiak,Southwest,Alitak Bay,NA,NA,NA,16.6,4.85
+725,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+688,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+726,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+727,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+759,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+760,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+728,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+761,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+729,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+651,1,3,2,Kodiak,Southeast,Offshore Twoheaded,NA,NA,NA,85.8,25
+THA,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,NA,NA,NA,15.1,4.4
+THCX,1,3,1,Kodiak,Southeast,South Sitkalidak Strait,THC,THD,NA,19.6,5.7
+614,1,3,1,Kodiak,Southeast,Offshore Twoheaded,NA,NA,NA,61.2,17.84
+615,1,3,2,Kodiak,Southeast,Offshore Twoheaded,NA,NA,NA,99.5,29
+585X,1,3,2,Kodiak,Southeast,Offshore Twoheaded,NA,NA,NA,78.8,22.98
+586,1,3,2,Kodiak,Southeast,Horse's Head,NA,NA,NA,85.8,25
+618A,1,3,2,Kodiak,Southeast,Offshore Twoheaded,NA,NA,NA,42.9,12.5
+619,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+587,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+620,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+655,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+654,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+695,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+696,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+656,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+621,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+533A,1,2,3,Kodiak,Eastside,Barnabas Gully,533,NA,NA,42.9,12.5
+559,1,2,3,Kodiak,Eastside,Barnabas Gully,NA,NA,NA,85.8,25
+4308,6,,4,Chignik,,Kujulik Bay,NA,NA,NA,17.2,5
+4302,6,,4,Chignik,,Kujulik Bay,NA,NA,NA,18.2,5.31
+4301,6,,4,Chignik,,Kujulik Bay,NA,NA,NA,21.4,6.24
+4298,6,,4,Chignik,,Kujulik Bay,NA,NA,NA,19,5.54
+4290,6,,4,Chignik,,Kujulik Bay,NA,NA,NA,21.3,6.2
+4296,6,,4,Chignik,,Kujulik Bay,NA,NA,NA,10.3,3
+4286,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+4287,6,,3,Chignik,,Chignik Bay,NA,NA,NA,28.5,8.3
+4282,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+4277,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+4272,6,,3,Chignik,,Chignik Bay,NA,NA,NA,15.9,4.64
+4266,6,,3,Chignik,,Chignik Bay,NA,NA,NA,19.6,5.72
+4256,6,,3,Chignik,,Chignik Bay,NA,NA,NA,22.5,6.55
+4267,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+4274,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+4278,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+4312,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.9,6.39
+4270,6,,3,Chignik,,Chignik Bay,NA,NA,NA,17.1,4.99
+4271,6,,3,Chignik,,Chignik Bay,NA,NA,NA,10,2.91
+4264,6,,3,Chignik,,Chignik Bay,NA,NA,NA,19.7,5.75
+4964,6,,3,Chignik,,Chignik Bay,NA,NA,NA,9.6,2.79
+4265,6,,3,Chignik,,Chignik Bay,NA,NA,NA,6.6,1.93
+4066B,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.6,12.7
+4066A,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.6,12.7
+4050B,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,42.9,12.52
+4065,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,80,23.33
+4063,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,35.2,10.25
+4048,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,14.7,4.3
+4064,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,40.5,11.82
+4050A,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,25.9,7.55
+4049,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,57.2,16.67
+4035,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,59.3,17.28
+4036,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,64.9,18.91
+4037,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.7,12.73
+4026,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.7,12.75
+4038A,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.7,12.75
+4038B,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.7,12.75
+4025,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,43.7,12.73
+4024,6,,2,Chignik,,Mitrofania Island,NA,NA,NA,57.6,16.79
+4915,6,,1,Chignik,,Ivanof Bay,NA,NA,NA,51,14.88
+4007,6,,1,Chignik,,Ivanof Bay,NA,NA,NA,37.2,10.86
+4900X,6,,1,Chignik,,Ivanof Bay,4900,NA,NA,10.4,3.02
+4000X,6,,1,Chignik,,Ivanof Bay,4900,4000,NA,5.6,1.62
+4000Y,6,,1,Chignik,,Ivanof Bay,4000,NA,NA,15.8,4.6
+4008,6,,1,Chignik,,Ivanof Bay,NA,NA,NA,42.1,12.27
+STD,2,2,6,South Peninsula,Eastern,Stepovak Bay,NA,NA,NA,22.4,6.53
+STA,2,2,6,South Peninsula,Eastern,Stepovak Bay,NA,NA,NA,21,6.12
+STB,2,2,6,South Peninsula,Eastern,Stepovak Bay,NA,NA,NA,18.9,5.5
+STE,2,2,6,South Peninsula,Eastern,Stepovak Bay,NA,NA,NA,15.5,4.53
+368A,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,43.9,12.81
+348,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,85.8,25
+329B,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,329,NA,NA,21.4,6.25
+329C,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,329,NA,NA,21.4,6.25
+311C,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,311,NA,NA,16.2,4.71
+311B,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,311,NA,NA,19.4,5.66
+BAF,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,9.4,2.75
+BAD,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,8.3,2.42
+BAA,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,12,3.5
+BAC,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,16.9,4.92
+BAE,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,12.7,3.71
+311A,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,311,NA,NA,15.5,4.51
+332B,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,42.9,12.5
+354,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,85.8,25
+334,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,85.8,25
+335,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,85.8,25
+337,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,85.8,25
+318,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,85.8,25
+301,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,85.8,25
+373A,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,28,8.17
+353,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,86.1,25.1
+373B,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,20.5,5.98
+393,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,42,12.24
+371,2,2,7,South Peninsula,Eastern,West Nagai Strait,NA,NA,NA,76,22.17
+BVC,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,18.9,5.5
+278,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,71.4,20.83
+245,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,21,6.13
+228,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,12.8,3.73
+PAOB,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,PAO,NA,NA,19.6,5.71
+PAH,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,37.5,4.14
+PAEX,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,PAE,PAF,NA,14.2,10.92
+PAIX,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,PAI,PAJ,NA,38.3,11.17
+PALX,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,PAL,PAM,NA,39.9,11.62
+PAP,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,20.8,6.06
+PARB,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,PAR,NA,NA,20.8,6.05
+PAV,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,20.6,6
+VOBX,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,VOB,VOC,NA,43.5,12.69
+VOD,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,20.8,6.06
+PARA,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,PAR,NA,NA,19.1,5.56
+PAU,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,21.4,6.25
+VOA,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,22.1,6.43
+VOG,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,22.1,6.45
+VOFB,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,VOF,NA,NA,15.5,4.53
+VOH,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,21.7,6.34
+VOI,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,21.2,6.18
+VON,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,22.1,6.45
+VOR,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,21.1,6.16
+VOLX,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,VOL,VOO,NA,17.7,5.15
+VOPX,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,VOO,VOP,NA,29.7,8.67
+VOQ,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,NA,NA,NA,15.9,4.64
+VOM,2,2,4,South Peninsula,Eastern,Pavlof/Volcano Bay,VOMA,VOMB,NA,27.5,8.02
+COB,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,20.8,6.07
+COE,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,20.2,5.89
+COF,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,11.5,3.35
+COH,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,4.8,1.41
+COGB,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,COG,NA,NA,3.6,1.06
+COGA,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,COG,NA,NA,9.8,2.86
+COM,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,18.5,5.4
+126,2,1,1,South Peninsula,Western,Sanak Island,NA,NA,NA,77.8,22.68
+113,2,1,1,South Peninsula,Western,Sanak Island,NA,NA,NA,77.2,22.5
+125,2,1,1,South Peninsula,Western,Sanak Island,NA,NA,NA,77.2,22.5
+137,2,1,1,South Peninsula,Western,Sanak Island,NA,NA,NA,85.8,25
+138A,2,1,1,South Peninsula,Western,Sanak Island,138,NA,NA,34.8,10.14
+138B,2,1,1,South Peninsula,Western,Sanak Island,138,NA,NA,18.4,5.37
+138C,2,1,1,South Peninsula,Western,Sanak Island,138,NA,NA,56.9,16.6
+AKA,3,1,1,Eastern Aleutian,Akutan Bay,Akutan Bay,NA,NA,NA,33.2,9.67
+AKC,3,1,1,Eastern Aleutian,Akutan Bay,Akutan Bay,NA,NA,NA,21.2,6.18
+AKD,3,1,1,Eastern Aleutian,Akutan Bay,Akutan Bay,NA,NA,NA,22.5,6.55
+AKG,3,1,1,Eastern Aleutian,Akutan Bay,Akutan Bay,NA,NA,NA,21.4,6.25
+AKL,3,1,1,Eastern Aleutian,Akutan Bay,Akutan Bay,NA,NA,NA,21.4,6.25
+MKK,3,4,1,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,35.7,10.41
+MKN,3,4,2,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,26.2,7.63
+MKP,3,4,2,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,11.1,3.24
+MKJ,3,4,1,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,22.9,6.69
+MKB,3,4,1,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,15.8,4.61
+MKC,3,4,1,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,18.5,5.39
+MKE,3,4,1,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,29.1,8.48
+MKF,3,4,1,Eastern Aleutian,Makushin Bay,Makushin Bay,NA,NA,NA,20.9,6.09
+UNC,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,22.6,6.59
+UNF,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,21.4,6.25
+UNJ,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,21.4,6.25
+KAA,3,3,2,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,19.5,5.68
+UNE,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,17.9,5.22
+UND,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,11.7,3.4
+UNG,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,21.4,6.25
+MORX,2,1,2,South Peninsula,Western,Morzhovoi Bay,MOR,MOV,NA,33.7,9.82
+MOSX,2,1,2,South Peninsula,Western,Morzhovoi Bay,MON,MOS,NA,42.7,12.45
+87AX,2,1,2,South Peninsula,Western,Morzhovoi Bay,87B,87A,87,42.9,12.5
+87D,2,1,2,South Peninsula,Western,Morzhovoi Bay,87,NA,NA,22.3,6.5
+MOOX,2,1,2,South Peninsula,Western,Morzhovoi Bay,MOO,MOP,NA,43.8,12.76
+MOK,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,21.4,6.25
+MOL,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,21.4,6.25
+MOH,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,15.1,4.41
+MOB,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,18.5,5.4
+MOD,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,16.1,4.7
+MOG,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,17.6,5.12
+MOI,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,16.9,4.94
+COOX,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,CON,COO,NA,27.7,8.08
+BEG,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,20.3,5.92
+157A,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,157,NA,NA,21,6.13
+156A,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,156,NA,NA,44.2,12.88
+BEF,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,14.5,4.22
+BEE,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,21.4,6.25
+BEBX,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,BEA,BEB,NA,15.1,4.41
+BECX,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,BEC,BED,NA,25.7,7.48
+KZK,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,21.4,6.25
+KZG,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,21.2,6.19
+KZE,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,25.8,7.52
+KUF,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,11.3,3.29
+KUG,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,15.4,4.5
+KUI,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,6.4,1.87
+KUS,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,12.1,3.54
+KUQ,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,20.6,6
+UYBX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,21.5,6.26
+UYHX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,4.1,1.2
+UYFX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,22.1,6.43
+UYEX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,29.9,8.71
+UYO,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,3.4,0.98
+UYKX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,13.9,4.04
+UYMX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,20.8,6.07
+UYQX,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,7.7,2.24
+UYT,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,2.8,0.83
+UYSS,1,5,3,Kodiak,Westside,Uyak Bay,NA,NA,NA,6,1.76
+KUT,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,9.4,2.74
+KUV,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,4.1,1.2
+KUW,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,5.2,1.51
+KUXB,1,5,2,Kodiak,Westside,Uganik Bay,KUX,NA,NA,4.1,1.19
+KUXA,1,5,2,Kodiak,Westside,Uganik Bay,KUX,NA,NA,5.6,1.62
+KUU,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,13.7,3.98
+KUP,1,5,2,Kodiak,Westside,Uganik Bay,NA,NA,NA,13.3,3.88
+KUNX,1,5,2,Kodiak,Westside,Uganik Bay,KUN,KUO,NA,10.6,3.1
+KUYA,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,KUY,NA,NA,4.1,1.19
+KULB,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,KUL,NA,NA,2.7,0.79
+KUM,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,10.5,3.06
+KUK,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,14.1,4.1
+KULA,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,KUL,NA,NA,2.1,0.61
+KUJ,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,17,4.95
+RAA,1,5,1,Kodiak,Westside,West Afognak,NA,NA,NA,6.7,1.96
+MAA,1,5,1,Kodiak,Westside,West Afognak,NA,NA,NA,10.5,3.07
+PMA,1,5,1,Kodiak,Westside,West Afognak,NA,NA,NA,15.1,4.4
+121,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+120,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+91,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+61,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+60,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+90,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,80.3,23.4
+119,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+118,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+171A,1,6,1,Kodiak,North Mainland,North Mainland,171,NA,NA,11.4,3.33
+171C,1,6,1,Kodiak,North Mainland,North Mainland,171,171B,NA,7.6,2.23
+171D,1,6,1,Kodiak,North Mainland,North Mainland,171,171B,172,28.6,8.34
+172B,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,79.5,23.17
+145,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+117,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,97.8,28.5
+146,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+173,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+198,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+222,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,103.2,30.09
+223,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+CHK,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,8.6,2.5
+CHL,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,14.1,4.1
+CHF,1,1,1,Kodiak,Northeast,Chiniak Bay,NA,NA,NA,12.7,3.7
+KZC,1,1,2,Kodiak,Northeast,Kizhuyak Bay,NA,NA,NA,12.3,3.6
+4262,6,,3,Chignik,,Chignik Bay,NA,NA,NA,21.4,6.25
+MOF,2,1,2,South Peninsula,Western,Morzhovoi Bay,NA,NA,NA,20,5.82
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+COC,2,1,3,South Peninsula,Western,Cold/Belkofski Bay,NA,NA,NA,14.2,4.15
+224,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+200,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+174,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+199,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+147,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+2,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.6,24.95
+31,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,83.7,24.4
+144,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,60.7,17.7
+KUD,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,NA,NA,NA,27.1,7.9
+KUYB,1,5,1,Kodiak,Westside,Kupreanof-Viekoda,KUY,NA,NA,2.6,0.75
+3,1,6,2,Kodiak,North Mainland,North Mainland,NA,NA,NA,85.8,25
+BVA,2,2,5,South Peninsula,Eastern,Beaver/Balboa/Unga,NA,NA,NA,13.5,3.93
+314,1,1,3,Kodiak,Northeast,Marmot Bay,NA,NA,NA,82.5,24.06
+UNI,3,3,1,Eastern Aleutian,Unalaska/Kalekta Bay,Unalaska/Kalekta Bay,NA,NA,NA,19.7,5.75
